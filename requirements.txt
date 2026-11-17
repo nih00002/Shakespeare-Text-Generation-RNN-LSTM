@@ -1,0 +1,4 @@
+# Use a PyTorch build compatible with your CPU/CUDA installation.
+torch>=2.0
+numpy>=1.23
+matplotlib>=3.6
